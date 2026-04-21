@@ -44,3 +44,11 @@ Validação da comunicação entre as máquinas:
 
 ```bash
 ping 192.168.56.102
+
+## Evidências
+
+![Ping](images/ping.png)
+![Servidor](images/curl.png)
+![DVWA](images/dvwa.png)
+![Brute Force](images/dvwabrute.png)
+![Hydra](images/hydra.png)
