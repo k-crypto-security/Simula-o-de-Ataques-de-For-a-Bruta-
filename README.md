@@ -42,7 +42,7 @@ As máquinas foram configuradas em modo de rede **Host-Only**, permitindo comuni
 
 Validação da comunicação entre as máquinas:
 
-```bash
+bash
 ping 192.168.56.102
 
 ## Evidências
